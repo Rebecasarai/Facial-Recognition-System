@@ -1,5 +1,5 @@
 # Build your own facial recognition system: To work even with a face mask!
-![](https://cdn-images-1.medium.com/max/1250/1*HVWXwbp_i1G7_I5YDKALnA.png)
+![](https://cdn-images-1.medium.com/max/1250/1*HVWXwbp_i1G7_I5YDKALnA.png =20)
 
 ### Introduction
 Recently, a neighbor from my building confused me with my sister for the 5th time. She says that I and my sister look very much alike for her to the point of confusing us. A week ago I finally submitted a project for an AI subject I'm taking while doing Erasmus in Budapest.
