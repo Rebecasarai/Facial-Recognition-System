@@ -1,6 +1,6 @@
 # Build your own facial recognition system: To work even with a face mask!
 <center>
-<img src="https://cdn-images-1.medium.com/max/1250/1*HVWXwbp_i1G7_I5YDKALnA.png"  width="800" />
+<img src="https://cdn-images-1.medium.com/max/1250/1*HVWXwbp_i1G7_I5YDKALnA.png"  width="600" />
 </center>
 ### Introduction
 Recently, a neighbor from my building confused me with my sister for the 5th time. She says that I and my sister look very much alike for her to the point of confusing us. A week ago I finally submitted a project for an AI subject I'm taking while doing Erasmus in Budapest.
@@ -17,8 +17,7 @@ From the augmented resulting images, 1871 were used to training the model and 92
 The first model (Build from scratch) recognizing me in recent photo.
 </center>
 
-The first model (Build from scratch) recognizing me in recent photo.The model is tested in different types of photos taken from different cameras/phones, different times, and different looks/make-up. With a confusion matrix, it's possible to see how the models can have more precision when predicting one of the classes (in this case either for my sister's face or mine).
-The models are saved as ".h5" files for easy portability, as well as the complete dataset of images created are compressed as ".npz" files for the same reason.
+The model is tested in different types of photos taken from different cameras/phones, different times, and different looks/make-up. With a confusion matrix, it's possible to see how the models can have more precision when predicting one of the classes (in this case either for my sister's face or mine). 
 
 At the end of this project, I was able to make the model recognize me even when using a face mask. Very interesting for me.
 
