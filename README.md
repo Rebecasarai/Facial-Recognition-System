@@ -2,6 +2,8 @@
 <center>
 <img src="https://cdn-images-1.medium.com/max/1250/1*HVWXwbp_i1G7_I5YDKALnA.png"  width="600" />
 </center>
+[Full article in Medium here.](https://rebecasaraigg.medium.com/build-your-own-facial-recognition-system-to-work-even-with-a-face-mask-b240539222f6?sk=9da179b04049c9a6188f641753dd947c)
+
 ### Introduction
 Recently, a neighbor from my building confused me with my sister for the 5th time. She says that I and my sister look very much alike for her to the point of confusing us. A week ago I finally submitted a project for an AI subject I'm taking while doing Erasmus in Budapest.
 In this project, now article, I create a facial recognition system from scratch with a Convolutional Neural Network(CNN) structure using Keras, to recognize me and my sister.
@@ -28,5 +30,6 @@ Photo of me after winning in my first Escape Room
 <center>
 <img src="https://cdn-images-1.medium.com/max/1250/1*Uc5jGDIqs0PZDOrxfI9odw.png"  width="300" />
 </center>
+
 
 [Full article in Medium here.](https://rebecasaraigg.medium.com/build-your-own-facial-recognition-system-to-work-even-with-a-face-mask-b240539222f6?sk=9da179b04049c9a6188f641753dd947c)
